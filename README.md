@@ -21,6 +21,9 @@ The project is currently in its early development phase, focusing on dataset pre
 
 🔄 Deployment (Tentative Deadline: 14th January)
 
+## Project Ends (Expected)
+14th January or before
+
 
 
 
