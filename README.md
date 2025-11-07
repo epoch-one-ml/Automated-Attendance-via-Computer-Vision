@@ -13,7 +13,7 @@ The project is currently in its early development phase, focusing on dataset pre
 
 ✅ Project initialized
 
-🔄 Member assignment (Tentative Deadline: 15th November)
+🔄 Member assignment (Tentative Deadline: 20th November)
 
 🔄 Dataset curation and annotation (Tentative Deadline: 10th December)
 
